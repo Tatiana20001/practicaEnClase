@@ -5,12 +5,12 @@ package ec.edu.espoch.miprimerprogramajava;
  *
  * @author tatia
  */
-public class Curso {
+public class Cursos {
     
-    //atributo
+    //atributos
     public String nombreCurso;
     public int codigo;
-    public Estudiante[] lista;
+    public Estudiantes[] estudiantesInscritos;
     
     //metodos
     public void agregar(){

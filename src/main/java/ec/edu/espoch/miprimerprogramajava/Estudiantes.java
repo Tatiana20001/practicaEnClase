@@ -5,12 +5,12 @@ package ec.edu.espoch.miprimerprogramajava;
  *
  * @author tatia
  */
-public class Estudiante {
+public class Estudiantes {
     
-    //atributo
+    //atributos
     public String nombre;
     public int identificacion;
-    public float promedio;
+    public double caificacionPromedio;
     
     //metodos
     public void inscribir(){
